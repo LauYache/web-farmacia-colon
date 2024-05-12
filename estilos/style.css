@@ -1,0 +1,194 @@
+.encabezado {
+  padding: 10px;
+}
+.encabezado h1, .card-titulo,.parrafo-carrousel, em {
+  color:  #0d7b5c;}
+.encabezado h2, .encabezado p, .parrafo-servicios {
+  color: #444948; 
+}
+
+img {
+  border-radius: 20px;
+}
+ul h3 {
+  margin-top: 20px;
+}
+li{
+  color: #0d7b5c;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.respuesta-form{
+  margin-top: 100px;
+  margin-bottom: 405px;
+}
+main{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.navbar {
+  background-color: #13bc0acd; 
+  color: white; 
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+header {
+  background-color: #f8f9fa;
+}
+a.nav-link, .navbar-brand{
+    font-family: 'Roboto', sans-serif;
+    color: #F8F8F8;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+}
+.carousel-inner img{
+  width: 100%;
+  height: 100%;
+}
+#contenedor-servicios{
+  background-color: #0d7b5c; 
+  text-align: center; 
+  color: #fff; 
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.card-texto{
+  color: #343a40;
+  text-align: center;
+}
+.profesionales h3{
+  text-align: center;
+  }
+.profesionales p{
+  margin: 20px;
+  text-align: justify;
+}
+.servicios img{
+  max-width: 250;
+}
+h2 em{
+  padding: 5px;
+  background-color: #0d7b5c; 
+  color: #F8F8F8;
+}
+.card-servicios{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 4px; 
+    justify-content: center!important;
+}
+#logo{
+  width: 100px;
+  height: 60px;
+}
+.card-servicios .card {
+  margin-bottom: 5px; 
+}
+.card-titulo{
+  text-align: center;
+}
+h1, h2, h3, p, a {
+    color: #0d7b5c; 
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+.carousel-inner img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.parrafo-carrousel{
+text-align: center;
+}
+div ul h3{
+  text-align: none;
+}
+footer h3{
+  text-align: left;
+  color: #fff;
+}
+
+a,  footer p{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+}
+
+.card {margin: 10px;}
+footer {
+  background-color: #0d7b5c; 
+  color: white; 
+  text-align: left;
+  
+}
+.container-custom {
+  padding-top: 20px;
+  padding-bottom: 20px; 
+}
+
+.ofertas-especiales{
+  margin: 10px;
+}
+.formulario {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+form{
+  margin-bottom: 100px;
+  margin: 10px;
+}
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+input,
+textarea {
+  width: 75%;
+  padding: 8px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.carousel-caption {
+  position: static;
+}
+.red-social {
+  margin: 20px 10px 0px 10px;
+  text-decoration: none;
+}
+button.carousel-control-prev:hover, button.carousel-control-next:hover{
+  background: none;
+}
+.logo-navbar {
+  width: 50px; 
+  height: auto; 
+}
+.submit {
+  margin-top: 20px;
+}
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+
+}
+iframe {
+  width: 100%; 
+  height: 100vh;
+  border: none; 
+}
+
+
+
+
